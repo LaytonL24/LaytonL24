@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 Name: Layton
-\nCurrently studying Computer Science at Mcmaster University 25 - 29
+
+Currently studying Computer Science at Mcmaster University 25 - 29
 
 <!--
 **LaytonL24/LaytonL24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
